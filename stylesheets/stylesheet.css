@@ -101,13 +101,11 @@ a:hover {
 }
 
 .banner {
-  width:1903px;
   height:625px;
 
 }
 
 .sub-banner {
-  width:1903px;
   height:400px;
 }
 #top-banner {
@@ -116,7 +114,7 @@ a:hover {
       rgba(0, 0, 0, 0.7), 
       rgba(0, 0, 0, 0.7)
     ),
-    url('../images/top-banner.png') center; 
+    url('../images/top-banner.png') no-repeat; 
 
 }
 
