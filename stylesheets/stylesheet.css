@@ -116,7 +116,7 @@ a:hover {
       rgba(0, 0, 0, 0.7), 
       rgba(0, 0, 0, 0.7)
     ),
-    url('../images/top-banner.png') no-repeat; 
+    url('../images/top-banner.png') center; 
 
 }
 
